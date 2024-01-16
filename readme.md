@@ -31,7 +31,7 @@ Suppose you are working as an analyst in a microprocessor chip manufacturing pla
 - State the null hypothesis
 - State the alternate hypothesis
 - What is the significance level
-- What are the degrees of freedom of the model, error terms, and total DoF
+- What are the degrees of freedom of the model, error terms (ST and ST??? values), and total DoF
 
 Data were collected randomly and provided to you in the table as shown: [link to the image - Data](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/7.05/7.05-lab_data.png)
 
